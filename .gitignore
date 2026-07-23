@@ -1,0 +1,29 @@
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/test
+*.test
+*.out
+*.prof
+*.cover
+
+# Environment
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+
+# Build
+bin/
+dist/
+
+# Redis
+dump.rdb
+
+# Logs
+*.log
